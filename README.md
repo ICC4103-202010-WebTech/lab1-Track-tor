@@ -4,7 +4,7 @@
 
 The structure of the document follows a very simple and logical pattern. first we start with a header that contains the title of the page for the browser to show in the page tab. then we have the body of the page, that contains the content of the webpage, including all the news articles.
 
-the articles are structured in such a way that the first one that appears in the HTML will be the first that will appear in the webpage. Each article in the html is represented by a tag, containing several other tags, each one modifying a certain parameter or providing text/hyperlinks for the article to show.
+the articles are structured in such a way that the first one that appears in the HTML will be the first that will appear in the webpage. Each article in the html is represented by a tag containing several other tags, each one modifying a certain parameter or providing text/hyperlinks for the article to show.
 
 ### 2. Briefly describe what you see in the hn.js and news.css files. How are these files different? What is their purpose?:
 
